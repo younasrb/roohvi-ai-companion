@@ -138,6 +138,3 @@ The same names appear in the "Designed by" card on the home screen (`TEAM_LEAD` 
 server says a model is unavailable. To force one, add `"live_model": "gemini-3.8-live"` to `config/api_keys.json`.
 Connection problems now appear as a message above the mood chips (the log panel is not shown on the home screen).
 
-## License / attribution
-
-Derived from **Mark LIV** by FatihMakes, licensed **CC BY-NC 4.0**: keep attribution; commercial use is not allowed.
