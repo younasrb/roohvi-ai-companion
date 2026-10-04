@@ -315,7 +315,7 @@ Designed by the Roohvi team.
 
 ## License and Attribution
 
-Roohvi is derived from **Mark LIV** by FatihMakes and is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**. Keep attribution. **Commercial use is not allowed.**
+Roohvi is derived from **Roohvi** by Roohvi Team and is licensed under **[MIT]**
 
 ---
 
