@@ -1,0 +1,193 @@
+{
+  "_readme": "Support resources shown by Roohvi. Every record carries a source and a verification note. Phone numbers and availability change: always tell the user to confirm. Edit freely; add your own region.",
+  "default_region": "PK",
+  "records": [
+    {
+      "name": "Police (15)",
+      "type": "emergency",
+      "region": "PK",
+      "contact": "15",
+      "emergency": true,
+      "availability": "Punjab Police lists 15; Karachi Police lists 'Madadgar 15' as a 24/7 helpline.",
+      "last_verified": "2026-10-03 (Amir Khan, official sites; pending team review)",
+      "source": "punjabpolice.gov.pk, karachipolice.gov.pk",
+      "note": ""
+    },
+    {
+      "name": "Rescue 1122 (Punjab)",
+      "type": "emergency",
+      "region": "PK-PB",
+      "contact": "1122",
+      "emergency": true,
+      "availability": "Punjab Emergency Service (official site)",
+      "last_verified": "2026-10-03 (Amir Khan, official site)",
+      "source": "rescue.gov.pk",
+      "note": ""
+    },
+    {
+      "name": "Rescue 1122 (Sindh, incl. Karachi)",
+      "type": "emergency",
+      "region": "PK-SD",
+      "contact": "1122",
+      "emergency": true,
+      "availability": "Sindh Rescue 1122 started in 2022 with a single free helpline 1122; reach may vary by district while it expands",
+      "last_verified": "2026-10-04 (Business Recorder report; not yet checked on a Sindh government site)",
+      "source": "Business Recorder report on Sindh Rescue 1122",
+      "note": "If 1122 does not connect where you are, call Police 15."
+    },
+    {
+      "name": "Umang Mental Health Helpline",
+      "type": "crisis_helpline",
+      "region": "PK",
+      "contact": "0311-7786264",
+      "emergency": false,
+      "availability": "24/7 per umang.com.pk and several independent directories",
+      "last_verified": "2026-10-03 (number matches multiple sources)",
+      "source": "umang.com.pk/contact-us",
+      "note": "A helpline is not a substitute for emergency services: if you are in immediate danger, call emergency services first."
+    },
+    {
+      "name": "Rozan Counselling Helpline",
+      "type": "counselling",
+      "region": "PK",
+      "contact": "0304-111-1741; toll-free 0800-22444",
+      "emergency": false,
+      "availability": "Hours UNVERIFIED: Rozan's pages disagree (Mon-Fri 9-5 on one, 10-8 daily on an old page). Check rozan.org.",
+      "last_verified": "2026-10-03 (Amir Khan, official site; pending team review)",
+      "source": "rozan.org/counseling-services",
+      "note": "Counselling, not an emergency service. The toll-free number appears in a Punjab government referral directory but not on Rozan's own current pages, so confirm it. Normal mobile call charges may apply to the mobile number."
+    },
+    {
+      "name": "Taskeen Health Initiative",
+      "type": "counselling",
+      "region": "PK",
+      "contact": "0316-8275336",
+      "emergency": false,
+      "availability": "Mon-Sat, 11 am to 11 pm, free telephone support (per taskeen.org)",
+      "last_verified": "2026-10-03 (Amir Khan, official site; pending team review)",
+      "source": "taskeen.org Find Help page",
+      "note": "Does not diagnose or do formal evaluations."
+    },
+    {
+      "name": "Ministry of Human Rights Helpline 1099 (abuse, violence, legal advice)",
+      "type": "abuse_helpline",
+      "region": "PK",
+      "contact": "1099 (toll-free)",
+      "emergency": false,
+      "availability": "Free. Press coverage describes it as a 24-hour line; confirm hours on mohr.gov.pk",
+      "last_verified": "2026-10-04 (number on the official mohr.gov.pk page)",
+      "source": "mohr.gov.pk Toll Free Helpline 1099",
+      "note": "For domestic violence, abuse and other rights violations: free legal advice and referral. If you are in danger right now, call emergency services first."
+    },
+    {
+      "name": "988 Suicide & Crisis Lifeline",
+      "type": "crisis_helpline",
+      "region": "US",
+      "contact": "Call or text 988",
+      "emergency": false,
+      "availability": "24/7",
+      "last_verified": "not re-checked",
+      "source": "988lifeline.org",
+      "note": ""
+    },
+    {
+      "name": "Emergency services",
+      "type": "emergency",
+      "region": "US",
+      "contact": "911",
+      "emergency": true,
+      "availability": "24/7",
+      "last_verified": "not re-checked",
+      "source": "Official",
+      "note": ""
+    },
+    {
+      "name": "Samaritans",
+      "type": "crisis_helpline",
+      "region": "GB",
+      "contact": "116 123",
+      "emergency": false,
+      "availability": "24/7",
+      "last_verified": "not re-checked",
+      "source": "samaritans.org",
+      "note": ""
+    },
+    {
+      "name": "Emergency services",
+      "type": "emergency",
+      "region": "GB",
+      "contact": "999",
+      "emergency": true,
+      "availability": "24/7",
+      "last_verified": "not re-checked",
+      "source": "Official",
+      "note": ""
+    },
+    {
+      "name": "Tele-MANAS",
+      "type": "crisis_helpline",
+      "region": "IN",
+      "contact": "14416",
+      "emergency": false,
+      "availability": "24/7",
+      "last_verified": "not re-checked",
+      "source": "Government of India",
+      "note": ""
+    },
+    {
+      "name": "Emergency services",
+      "type": "emergency",
+      "region": "IN",
+      "contact": "112",
+      "emergency": true,
+      "availability": "24/7",
+      "last_verified": "not re-checked",
+      "source": "Official",
+      "note": ""
+    },
+    {
+      "name": "Find A Helpline",
+      "type": "directory",
+      "region": "INTL",
+      "contact": "https://findahelpline.com",
+      "emergency": false,
+      "availability": "Directory",
+      "last_verified": "not re-checked",
+      "source": "findahelpline.com",
+      "note": "Free, confidential crisis lines by country and language."
+    },
+    {
+      "name": "Befrienders Worldwide",
+      "type": "directory",
+      "region": "INTL",
+      "contact": "https://www.befrienders.org",
+      "emergency": false,
+      "availability": "Directory",
+      "last_verified": "not re-checked",
+      "source": "befrienders.org",
+      "note": ""
+    },
+    {
+      "name": "Local emergency number",
+      "type": "emergency",
+      "region": "INTL",
+      "contact": "Your country's emergency number",
+      "emergency": true,
+      "availability": "",
+      "last_verified": "",
+      "source": "",
+      "note": "If you are in immediate danger, contact local emergency services."
+    }
+  ],
+  "_change_log_2026-10-03": [
+    "Rescue 1122: removed the note that 112 also works (no official source). Availability outside Punjab unverified.",
+    "Rozan: removed toll-free 0800-22444 (not confirmed on Rozan's current pages); number 0304-111-1741 per Amir Khan; hours conflict between pages.",
+    "All PK entries updated from Amir Khan's PRO research (official sites, 3 Oct 2026); PENDING review by Maria. Sindh/Karachi emergency numbers still missing: needs an official source."
+  ],
+  "_change_log_2026-10-04": [
+    "Added province-aware records: PK-PB and PK-SD. Sindh helpline for mental health (Sindh Mental Health Authority) exists per a directory but no verified number yet, so it is not listed."
+  ],
+  "_change_log_2026-10-04b": [
+    "Added MoHR helpline 1099 (official site). Re-added Rozan toll-free 0800-22444 because a Punjab government referral directory lists it; still confirm with Rozan."
+  ]
+}
